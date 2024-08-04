@@ -18,6 +18,27 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+
+.flat{
+  border: 2px solid blueviolet;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px;
+}
+.peisa{
+  border: 2px solid turquoise;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px;
+
+}
+.add{
+  border: 2px solid tomato;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px;
+
+}
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
